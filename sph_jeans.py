@@ -217,9 +217,3 @@ class model:
         
         
         return [S_rad,S_tan]
-
-
-
-
-
-
